@@ -1,0 +1,13 @@
+snagx to png converter
+=====================
+
+A simple program to convert .snagx files to PNG, reading out tha content between  PNG signature and write it to a file.
+
+Build
+-----
+
+Use your prefered c compiler, like tcc, cc, gcc etc. 
+
+gcc main.c -o snagxtopng
+
+ 
